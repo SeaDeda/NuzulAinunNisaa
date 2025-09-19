@@ -224,28 +224,32 @@ class NetflixClone {
 				year: '2022',
 				rating: 'TV-MA',
 				image: 'assets/12.jpg',
-				description: ''
+				description: 'Baby i love you i want you i need you stay with me',
+				audio: 'kicipumama.mp3'
 			},
 			{
 				title: 'The Walking Dead',
 				year: '2021',
 				rating: 'TV-MA',
 				image: 'assets/6.jpg',
-				description: 'Aku habis bikin nugget nih ka'
+				description: 'Aku habis bikin nugget nih ka',
+				audio: 'kasihaba.mp3'
 			},
 			{
 				title: 'Game of Thrones',
 				year: '2020',
 				rating: 'TV-MA',
-				image: 'assets/14.jpg',
-				description: ''
+				image: 'assets/30.jpg',
+				description: 'Dinomu ketinggalan zull',
+				audio: 'assets/menuju.mp3'
 			},
 			{
 				title: 'Westworld',
 				year: '2019',
 				rating: 'TV-MA',
 				image: 'assets/15.jpg',
-				description: ''
+				description: 'End',
+				audio: ''
 			}
 		];
 
