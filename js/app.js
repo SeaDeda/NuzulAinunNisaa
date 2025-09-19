@@ -249,7 +249,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/15.jpg',
 				description: 'End',
-				audio: ''
+				audio: 'assets/uare.mp3'
 			}
 		];
 
