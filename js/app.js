@@ -138,7 +138,7 @@ class NetflixClone {
 				rating: 'TV-14',
 				image: 'assets/2.jpg',
 				description: 'Mungkin dalam kamu menjalani dunia banyak hal yang buat kamu minder/insecure dengan diri kamu sendiri, tapi lagu ini bisa mengingatkan kamu bahwa diri kamu sudah berhasil melewati semuanya hingga detik ini maka pesanku jangan lupa untuk menghargai dan berterima kasih pada diri sendiri :)',
-				audio: 'assets/diri.mp3'
+				audio: 'assets/Diri.mp3'
 				
 			},
 			{
@@ -147,7 +147,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/11.jpg',
 				description: 'Ratusan hari ku mengenalmu ratusan alasan kamu berharga ratusan hari ku bersamamu ratusan alasan kamu cahaya semampuku kau akrab dengan senyum dan tawa semampuku tak perlu lagi takut cinta',
-				audio: 'assets/cahaya.mp3'
+				audio: 'assets/Cahaya.mp3'
 			},
 			{
 				title: 'Bridgerton',
@@ -155,7 +155,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/4.jpg',
 				description: 'Sadarkah dirimu indah? tak cukup sekali ku pikirkan mu salahkah meski kau banyak hati yang memuja sadar tak begitu mudah kau bintangnya di setiap mata apakah milikimu hanya angan semata?',
-				audio: 'assets/dirimu indah.mp3'
+				audio: 'assets/Dirimu.mp3'
 			},
 			{
 				title: 'Money Heist',
@@ -163,7 +163,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/5.jpg',
 				description: 'Bersandar padaku taruh di bahuku relakan semua bebas semaumu percayalah ini sayang terlewatkan kusampaikan dalam nyanyian bergema sampai selamanya, dunia pasti ada akhirnya bintang bintang pun ada umurnya maka tenang saja kita disini berdua.. nikmati sementara yang ada',
-				audio: 'assets/bergema sampai selamanya.mp3'
+				audio: 'assets/bergema.mp3'
 			}
 		];
 
@@ -225,7 +225,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/12.jpg',
 				description: 'Baby i love you i want you i need you stay with me',
-				audio: 'kicipumama.mp3'
+				audio: 'assets/kicipumama.mp3'
 			},
 			{
 				title: 'The Walking Dead',
@@ -233,7 +233,7 @@ class NetflixClone {
 				rating: 'TV-MA',
 				image: 'assets/6.jpg',
 				description: 'Aku habis bikin nugget nih ka',
-				audio: 'kasihaba.mp3'
+				audio: 'assets/kasihaba.mp3'
 			},
 			{
 				title: 'Game of Thrones',
