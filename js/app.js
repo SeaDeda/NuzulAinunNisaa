@@ -1,5 +1,5 @@
 // Netflix Clone JavaScript
-alert('');
+alert('jangan lupa tekan tombol masuk dulu yaa');
 class NetflixClone {
 	constructor() {
 		this.init();
