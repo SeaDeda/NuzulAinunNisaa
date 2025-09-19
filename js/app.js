@@ -1,4 +1,5 @@
 // Netflix Clone JavaScript
+alert('');
 class NetflixClone {
 	constructor() {
 		this.init();
@@ -128,36 +129,41 @@ class NetflixClone {
 				year: '2024',
 				rating: 'TV-14',
 				image: 'assets/1.jpg',
-				description: 'Tuhan berikan dia untukku yang memikat erat hatiku terlalu indah kau dimataku terjebak aku dibuatmu disenyum yang manis itu..',
-				audio: 'assets/menuju.mp3'
+				description: 'Ingat perkataanku walau bulan banyak lubang cantiknya memancari terang kata siapa kau tak sempurna binar matamu merona sungguh kau berharga',
+				audio: 'assets/N.mp3'
 			},
 			{
 				title: 'Wednesday',
 				year: '2023',
 				rating: 'TV-14',
 				image: 'assets/2.jpg',
-				description: 'Sadarkah dirimu indah tak cukup sekali ku pikirkanmu salahkah meski kau banyak hati yang memujaa.. Sadar tak begitu mudah kau bintangnya di setiap mata apakah milikimu hanya angan semata...',
-				audio: 'assets/memikat.mp3'
+				description: 'Mungkin dalam kamu menjalani dunia banyak hal yang buat kamu minder/insecure dengan diri kamu sendiri, tapi lagu ini bisa mengingatkan kamu bahwa diri kamu sudah berhasil melewati semuanya hingga detik ini maka pesanku jangan lupa untuk menghargai dan berterima kasih pada diri sendiri :)',
+				audio: 'assets/diri.mp3'
+				
 			},
 			{
 				title: 'The Witcher',
 				year: '2023',
 				rating: 'TV-MA',
 				image: 'assets/11.jpg',
-				description: 'Walau bulan banyak lubang cantiknya memancari terang kata siapa? kau tak sempurna binar matamu merona sungguh kau berharga'
+				description: 'Ratusan hari ku mengenalmu ratusan alasan kamu berharga ratusan hari ku bersamamu ratusan alasan kamu cahaya semampuku kau akrab dengan senyum dan tawa semampuku tak perlu lagi takut cinta',
+				audio: 'assets/cahaya.mp3'
 			},
 			{
 				title: 'Bridgerton',
 				year: '2024',
 				rating: 'TV-MA',
 				image: 'assets/4.jpg',
-				description: ''
+				description: 'Sadarkah dirimu indah? tak cukup sekali ku pikirkan mu salahkah meski kau banyak hati yang memuja sadar tak begitu mudah kau bintangnya di setiap mata apakah milikimu hanya angan semata?',
+				audio: 'assets/dirimu indah.mp3'
 			},
 			{
 				title: 'Money Heist',
 				year: '2023',
 				rating: 'TV-MA',
-				image: 'assets/5.jpg'
+				image: 'assets/5.jpg',
+				description: 'Bersandar padaku taruh di bahuku relakan semua bebas semaumu percayalah ini sayang terlewatkan kusampaikan dalam nyanyian bergema sampai selamanya, dunia pasti ada akhirnya bintang bintang pun ada umurnya maka tenang saja kita disini berdua.. nikmati sementara yang ada',
+				audio: 'assets/bergema sampai selamanya.mp3'
 			}
 		];
 
@@ -166,32 +172,41 @@ class NetflixClone {
 				title: 'Dark',
 				year: '2022',
 				rating: 'TV-MA',
-				image: 'assets/13.jpg'
+				image: 'assets/13.jpg',
+				description: 'Dahulu pernah aku merayu menjamu hasrat jiwa yang tumbuh denganmu waktu, tak ingin cepat berlalu saatku berada didekatmu dan bila ada bintang yang jatuh mengalir harapanku bersamamu tak ada ragu coba menata dan meramu merangkai cinta terindah untukmu Tuhan berikan dia untukku yang memikat erat hatiku terlalu indah kau di mataku erjebak aku dibuatmu di senyum yang manis itu',
+				audio: 'assets/memikat.mp3'
 			},
 			{
 				title: 'The Crown',
 				year: '2023',
 				rating: 'TV-MA',
-				image: 'assets/7.jpg'
+				image: 'assets/7.jpg',
+				description: 'For you there is no caption needed You, reason my body got heated oh mine now you become my new obsession Girl, you are a limited edition all I want is vitamin u, oh you because all I want is vitamin u all I want is vitamin u',
+				audio: 'assets/vitamin u.mp3'
 			},
 			{
 				title: 'Ozark',
 				year: '2022',
 				rating: 'TV-MA',
-				image: 'assets/8.jpg'
+				image: 'assets/8.jpg',
+				description: "i just wanna see how beautiful you are you know that i see it i know you're a star where you go i'll follow no matter how far if life is a movie know you re the best part",
+				audio: 'assets/bestpart.mp3'
 			},
 			{
 				title: 'Narcos',
 				year: '2021',
 				rating: 'TV-MA',
-				image: 'assets/9.jpg'
+				image: 'assets/9.jpg',
+				description: 'Maukan lagi kau mengulang ragu dan sendu yang lama dia yang dulu pernah bersamamu memahat kecewa atau kau inginkan yang baru(Aku) sungguh menyayangimu aku ingin dirimu yang menjadi milikku bersamaku mulai hari ini hilang ruang untuk cinta yang lain',
+				audio: 'assets/adu rayu.mp3'
 			},
 			{
 				title: 'House of Cards',
 				year: '2020',
 				rating: 'TV-MA',
 				image: 'assets/10.jpg',
-				description: 'Kesel dikit ica goreng ayam nya gosong v:'
+				description: 'Udah cape ngetik zull wkwk',
+				audio: 'assets/beautiful.mp3'
 			}
 		];
 
@@ -200,21 +215,23 @@ class NetflixClone {
 				title: 'Breaking Bad',
 				year: '2023',
 				rating: 'TV-MA',
-				image: 'assets/3.jpg'
+				image: 'assets/3.jpg',
+				description: 'Nnti di magelang gaboleh takut, ada ambon wkwk',
+				audio: 'assets/gaboleh.mp3'
 			},
 			{
 				title: 'Better Call Saul',
 				year: '2022',
 				rating: 'TV-MA',
 				image: 'assets/12.jpg',
-				description: 'Habis liat citilik sama dava wkwk'
+				description: ''
 			},
 			{
 				title: 'The Walking Dead',
 				year: '2021',
 				rating: 'TV-MA',
 				image: 'assets/6.jpg',
-				description: 'Aku habis bikin nugget :v'
+				description: 'Aku habis bikin nugget nih ka'
 			},
 			{
 				title: 'Game of Thrones',
@@ -228,7 +245,7 @@ class NetflixClone {
 				year: '2019',
 				rating: 'TV-MA',
 				image: 'assets/15.jpg',
-				description: 'Salting habis digombalin asad'
+				description: ''
 			}
 		];
 
